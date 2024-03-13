@@ -1,5 +1,5 @@
 {
-    "scripts": {
-      "build": "[my-framework] build --output public"
-    }
+  "scripts": {
+    "build": "python main.py"
+  }
 }
